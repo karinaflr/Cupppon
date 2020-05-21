@@ -1,0 +1,67 @@
+body * {
+  font-family: 'roboto', sans-serif;
+}
+
+h5{
+  color: #212529;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+p {
+  color: #707070;
+font-weight: 300;
+font-size: 16px;
+
+}
+
+.ubicacion {
+  color: #707070;
+  font-weight: 300;
+  font-size: 13px;
+
+}
+
+.precio {
+  color: #28A745;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 21px;
+  text-align: center;
+}
+
+#exampleuser1 {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+#exampleuser2 {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.btn {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+}
+
+footer {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+footer img {
+  height: 24px;
+}
+
+header img {
+  height: 27px;
+}
